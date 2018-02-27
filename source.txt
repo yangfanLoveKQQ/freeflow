@@ -1,0 +1,6 @@
+java\jso-back-end-services\jso-job-management-webservice\src\main\java\jp\co\fujixerox\ffoptions\jso\jobmanagement\service\impl\JobServiceImpl.java
+java\jso-back-end-services\jso-job-management-webservice\src\main\java\jp\co\fujixerox\ffoptions\jso\jobmanagement\service\impl\PrintJobServiceImpl.java
+java\jso-back-end-services\jso-job-monitor-residentservice\src\main\java\jp\co\fujixerox\ffoptions\jso\sendjob\Constants.java
+java\jso-back-end-services\jso-job-monitor-residentservice\src\main\java\jp\co\fujixerox\ffoptions\jso\sendjob\SendJobJDFEditor.java
+java\jso-common\jso-common\src\main\java\jp\co\fujixerox\ffoptions\jso\common\beans\JobInfo.java
+java\jso-common\jso-common\src\main\resources\mybatis\mapper\PrintJobMapper.xml
